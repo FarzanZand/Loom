@@ -146,10 +146,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 558a8e2b6826cf840aae193990ba9f2e, type: 3}
   m_Name: ShadowsMidtonesHighlights
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   shadows:
-    m_OverrideState: 0
-    m_Value: {x: 0.9951722, y: 0.9902762, z: 1, w: 0}
+    m_OverrideState: 1
+    m_Value: {x: 0.8488235, y: 0.897958, z: 1, w: -0.37075177}
   midtones:
     m_OverrideState: 0
     m_Value: {x: 0.9534403, y: 0.9306258, z: 1, w: 0}
