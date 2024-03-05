@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 0
   mode:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 0
   neutralHDRRangeReductionMode:
     m_OverrideState: 0
@@ -108,7 +108,7 @@ MonoBehaviour:
     m_Value: 0
   colorFilter:
     m_OverrideState: 0
-    m_Value: {r: 1, g: 0.9528302, b: 0.9528302, a: 1}
+    m_Value: {r: 1, g: 0.96810204, b: 0.9529412, a: 1}
   hueShift:
     m_OverrideState: 0
     m_Value: 0
